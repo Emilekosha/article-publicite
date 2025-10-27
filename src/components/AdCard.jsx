@@ -6,7 +6,7 @@ export default function AdCard() {
       href="https://emilekosha.github.io/LePerroquet_1/actualites/sponsors.html"
       target="_blank"
       rel="noopener noreferrer"
-      className="block bg-gray-50 rounded-lg overflow-hidden  max-w-md mx-auto "
+      className="block bg-white rounded-lg overflow-hidden  max-w-md mx-auto "
     >
       <img
         src={PubImg}
